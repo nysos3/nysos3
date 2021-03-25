@@ -1,6 +1,9 @@
-[![nysos3's github stats](https://github-readme-stats.vercel.app/api?username=nysos3)](https://github.com/nysos3)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nysos3&layout=compact)](https://github.com/nysos3)
+<a href="https://github.com/nysos3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nysos3&hide=contribs&count_private=true&show_icons=true&theme=solarized-dark" />
+</a>
+<a href="https://github.com/nysos3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nysos3&theme=solarized-dark&layout=compact&hide=html" />
+</a>
 
 <!--
 **nysos3/nysos3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
