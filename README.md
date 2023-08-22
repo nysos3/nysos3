@@ -1,8 +1,8 @@
 <a href="https://github.com/nysos3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nysos3&hide=contribs&count_private=true&show_icons=true&theme=solarized-dark" />
+  <img align="center" src="https://github-readme-stats-nysos3.vercel.app/api?username=nysos3&hide=contribs&count_private=true&show_icons=true&theme=solarized-dark" />
 </a>
 <a href="https://github.com/nysos3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nysos3&theme=solarized-dark&layout=compact&hide=html" />
+  <img align="center" src="https://github-readme-stats-nysos3.vercel.app/api/top-langs/?username=nysos3&theme=solarized-dark&layout=compact&hide=html" />
 </a>
 
 <!--
