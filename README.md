@@ -1,5 +1,5 @@
 <a href="https://github.com/nysos3">
-<img align="center" src="https://github-readme-stats-nysos3.vercel.app/api/top-langs/?username=nysos3&theme=solarized-dark&layout=compact&hide=html" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nysos3&theme=solarized-dark&layout=compact&hide=html" />
 </a>
 
 <!--
